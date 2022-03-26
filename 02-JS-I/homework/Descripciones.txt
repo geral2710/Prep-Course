@@ -1,0 +1,8 @@
+Descripcion de conceptos
+
+Variables: es como el cupo que se le da a un valor para usarlo luego, de esta forma se escribe le nombre de la variable en lugar de su contenido
+Strings: es contenido en texto que debe ser encerrado siempre dentro de  comillas " 
+Funciones (argumentos, return): las funciones son objetos o datos particulares que son invocables; los argumentos son variables que las funciones necesitan en 
+    algunas oportunidades para producir resultados;  el return es el resultado que devuelve el valor calculado de acuerdo a los argumentos de la funcion
+Declaraciones if: es una forma de verificar si algo es verdadeo 'true' o falso 'false', se me asemeja mucho a la funcion si de excel. 
+Valores booleanos (true, false): es un dato que tiene dos opciones de valores, verdadero o falso 
